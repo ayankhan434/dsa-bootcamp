@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    // This program calculates the LCM of two numbers
     int a, b;
     cout << "Enter two numbers: ";
     cin >> a >> b;
